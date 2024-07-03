@@ -17,15 +17,15 @@ async def start(bot: Client, msg: Message):
 ɪ ᴀᴍ ᴛʀᴜꜱᴛᴇᴅ ꜱᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ ꜰᴜʟʟʏ ꜱᴀꜰᴇ & ꜱᴇᴄᴜʀᴇ.
 ɴᴏ ᴇʀʀᴏʀ.
 
-‌🇲‌ᴀᴅᴇ ʙʏ  : [⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂ ꯭м꯭υ꯭η∂꯭α_꯭آآ⎯꯭ ꯭̽🌸](https://t.me/II_BAD_MUNDA_II) !""",
+‌🇲‌ᴀᴅᴇ ʙʏ  : [⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂ ꯭м꯭υ꯭η∂꯭α_꯭آآ⎯꯭ ꯭̽🌸](https://t.me/ll_BAD_MUNDA_ll) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="🌹ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ🌹", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("🥀ɢʀᴏᴜᴘ🥀", url="https://t.me/THE_PUNJABI_BANDE"),
-                    InlineKeyboardButton("☠️ᴄʜᴀɴɴᴇʟ☠️", url="https://t.me/ll_BAD_MUNDA_WORLD_ll")
+                    InlineKeyboardButton("🥀ɢʀᴏᴜᴘ🥀", url="https://t.me/PUNJABI_CHATTING_HUB"),
+                    InlineKeyboardButton("☠️ᴄʜᴀɴɴᴇʟ☠️", url="https://t.me/PBX_PERMOT")
                 ]
             ]
         ),

@@ -3,11 +3,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID =27383453
-API_HASH ="4c246fb0c649477cc2e79b6a178ddfaa"
+API_ID = int(getenv("API_ID"))
+API_HASH = getenv("API_HASH")
 
-BOT_TOKEN ="7288949255:AAFNt519vRhSvbwXnK4XEoVMZQLLQlIWeqc"
-OWNER_ID =6352107773
+BOT_TOKEN = getenv("BOT_TOKEN")
+OWNER_ID = int(getenv("OWNER_ID"))
 
-MONGO_DB_URI ="mongodb+srv://BADMUNDA:BADMYDAD@badhacker.i5nw9na.mongodb.net/"
-MUST_JOIN ="PUNJABI_CHATTING_HUB"
+MONGO_DB_URI = getenv("MONGO_DB_URI")
+MUST_JOIN = getenv("MUST_JOIN", None)
